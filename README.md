@@ -51,7 +51,21 @@ Each brief has three parts:
 2. **Pattern:** what the winning reels have in common
 3. **Velocity:** which reels are still gaining views and which have stopped
 
-Screenshots are in [`screenshots/`](screenshots/).
+## Screenshots
+
+All images below are made from the tracker's real data (exported from the live Google Sheet on 26 Nov 2026). Hindi reel titles are written in English letters.
+
+**Raw Data tab:** the latest automatic snapshot. 437 rows have been logged since 4 Sep 2026.
+![Raw Data tab](screenshots/1_raw_data_tab.png)
+
+**Views over time:** each dot is one snapshot the script saved on its own, every 2 days.
+![Views over time](screenshots/2_views_over_time.png)
+
+**What the data shows:** reels with share hooks and bold themes reach millions, while quiet reflective captions stay under 60K.
+![Reels compared](screenshots/3_reels_compared.png)
+
+**Insights tab:** the latest weekly brief written by Claude.
+![AI brief](screenshots/4_ai_brief.png)
 
 ---
 
